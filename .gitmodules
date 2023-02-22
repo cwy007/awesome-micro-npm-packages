@@ -1,0 +1,3 @@
+[submodule "packages/is-sorted"]
+	path = packages/is-sorted
+	url = git@github.com:dcousens/is-sorted.git

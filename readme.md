@@ -4,13 +4,12 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-
 ## Articles
 
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 * [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
 * [Module best practices](https://github.com/mattdesl/module-best-practices)
-* [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/) 
+* [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
 * [Small modules: it’s not quite that simple](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4)
 * [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
@@ -60,7 +59,6 @@
 * [parse-next-json-value](https://github.com/ErikOnBike/parse-next-json-value) - Parse next JSON value from string allowing extraneous characters after value.
 * [pluralize](https://github.com/DaniAkash/pluralizer) - A very tiny library to pluralize words
 
-
 ### Date & Time
 
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
@@ -94,7 +92,7 @@
 * [sorted-object](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 * [static-props](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`
 * [missing-deep-keys](https://github.com/vladgolubev/missing-deep-keys) - Returns an array of keys from first object that are missing in second.
-* [has-own-property](https://github.com/LinusU/has-own-property) - Check if an object has a local property. 
+* [has-own-property](https://github.com/LinusU/has-own-property) - Check if an object has a local property.
 * [merge-objects](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated.
 * [deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
@@ -104,7 +102,7 @@
 * [curry](https://github.com/dominictarr/curry) - A curry function without anything too clever.
 * [once](https://github.com/isaacs/once) - Run a function exactly one time.
 * [deep-bind](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
-* [identity-function](https://github.com/substack/identity-function) - Always return the input argument. 
+* [identity-function](https://github.com/substack/identity-function) - Always return the input argument.
 * [mem](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 * [throttle-debounce](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 * [compose-tiny](https://github.com/hipstersmoothie/compose-tiny) - A very tiny and fast compose function.
@@ -119,6 +117,7 @@
 * [fun-gcd](https://github.com/zubayerhimel/fun-gcd) - A tiny math library to get gcd of two numbers using Euclidean algorithm
 
 ### Stream
+
 * [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 * [through2-filter](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
 * [through2-map](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
@@ -130,7 +129,6 @@
 * [split](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
 * [is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream.
 * [syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
-
 
 ### Promise
 
@@ -168,8 +166,6 @@
 * [semver](https://github.com/npm/node-semver) - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) - Find minimum in an array of version that satisfies a semver range.
-
-
 
 ### CLI
 
@@ -218,11 +214,9 @@ Follow them to discover new great modules:
 ---|---|---
 [Rod Vagg](https://github.com/rvagg) | [Max Ogden](https://github.com/maxogden) | [Brian Woodward](https://github.com/doowb)
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
