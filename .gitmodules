@@ -4,3 +4,6 @@
 [submodule "packages/array-first"]
 	path = packages/array-first
 	url = git@github.com:cwy007/array-first.git
+[submodule "packages/array-slice"]
+	path = packages/array-slice
+	url = git@github.com:jonschlinkert/array-slice.git
