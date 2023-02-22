@@ -1,3 +1,6 @@
 [submodule "packages/is-sorted"]
 	path = packages/is-sorted
 	url = git@github.com:dcousens/is-sorted.git
+[submodule "packages/array-first"]
+	path = packages/array-first
+	url = git@github.com:cwy007/array-first.git
