@@ -7,3 +7,9 @@
 [submodule "packages/array-slice"]
 	path = packages/array-slice
 	url = git@github.com:jonschlinkert/array-slice.git
+[submodule "packages/array-last"]
+	path = packages/array-last
+	url = git@github.com:jonschlinkert/array-last.git
+[submodule "packages/arr-flatten"]
+	path = packages/arr-flatten
+	url = git@github.com:jonschlinkert/arr-flatten.git
